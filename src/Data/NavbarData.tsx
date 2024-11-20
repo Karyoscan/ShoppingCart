@@ -1,9 +1,9 @@
 import React from "react";
 
 const NavbarData = [
-  { id: 1, name: "Home", road: "/" },
+  { id: 1, name: "Store", road: "/" },
   { id: 2, name: "About", road: "/about" },
-  { id: 3, name: "Store", road: "/store" },
+  { id: 3, name: "Home", road: "/home" },
 ];
 
 export default NavbarData;
