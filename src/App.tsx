@@ -16,7 +16,7 @@ function App() {
     <Navbar/>
     <div className="w-[95%] m-auto  ">
       <Routes>
-        <Route path="/" element={<Store />} />
+        <Route path="/ShoppingCart" element={<Store />} />
         <Route path="about" element={<About />} />
         <Route path="home" element={<Home />} />
       </Routes>
